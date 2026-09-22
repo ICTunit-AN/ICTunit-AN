@@ -61,7 +61,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ICTunit-AN&bg_color=00000000&color=16a34a&line=22c55e&point=0f766e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ICTunit-AN/ICTunit-AN/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ICTunit-AN/ICTunit-AN/output/snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
