@@ -1,16 +1,16 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=190&section=header&text=ICT%20Unit&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Membangun%20sistem%20internal%20yang%20andal%20%26%20efisien&descSize=18&descAlignY=58" alt="ICT Unit" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,60:2F5DB5,100:E8B130&height=190&section=header&text=ICT%20Unit&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Membangun%20sistem%20internal%20yang%20andal%20%26%20efisien&descSize=18&descAlignY=58" alt="ICT Unit" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ICTunit-AN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=560&lines=Enterprise+Web+Applications;ERP+%E2%80%A2+Finance+%E2%80%A2+Budgeting+%E2%80%A2+Estate;Otorisasi+%26+Workflow+Internal;Landing+Page+%26+Company+Website" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1E4FA3&center=true&vCenter=true&width=560&lines=Enterprise+Web+Applications;ERP+%E2%80%A2+Finance+%E2%80%A2+Budgeting+%E2%80%A2+Estate;Otorisasi+%26+Workflow+Internal;Landing+Page+%26+Company+Website" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ICTunit-AN&label=Profile%20views&color=16a34a&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ICTunit-AN&label=Profile%20views&color=1e4fa3&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 📈 Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ICTunit-AN&theme=transparent&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ICTunit-AN&theme=transparent&hide_border=true&ring=1E4FA3&fire=E8B130&currStreakLabel=1E4FA3" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,60:2F5DB5,100:E8B130&height=100&section=footer" alt="footer" />
 </p>
