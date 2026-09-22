@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,60:2F5DB5,100:E8B130&height=190&section=header&text=ICT%20Unit&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Membangun%20sistem%20internal%20yang%20andal%20%26%20efisien&descSize=18&descAlignY=58" alt="ICT Unit" />
+  <img src="assets/header.svg" alt="ICT Unit" width="100%" />
 </p>
 
 <p align="center">
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,60:2F5DB5,100:E8B130&height=100&section=footer" alt="footer" />
+  <img src="assets/footer.svg" alt="" width="100%" />
 </p>
