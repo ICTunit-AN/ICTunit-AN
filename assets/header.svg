@@ -1,5 +1,5 @@
-
-      <svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
         width="854"
         height="190"
         xmlns="http://www.w3.org/2000/svg"
@@ -18,32 +18,31 @@
             </defs>
         
       <g transform="translate(427, 95) scale(1, 1) translate(-427, -95)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z" fill="url(#linear)" opacity="0.4" >
           <animate
               attributeName="d"
               dur="20s"
               repeatCount="indefinite"
               keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
+              calcMode="spline"
               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
               begin="0s"
               values="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z;M0 0L 0 135Q 213.5 150 427 130T 854 120L 854 0 Z;M0 0L 0 155Q 213.5 125 427 155T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z">
           </animate>
         </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z" fill="url(#linear)" opacity="0.4" >
           <animate
             attributeName="d"
             dur="20s"
             repeatCount="indefinite"
             keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
+            calcMode="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="-10s"
             values="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 110 427 110T 854 130L 854 0 Z;M0 0L 0 135Q 213.5 115 427 140T 854 155L 854 0 Z;M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z">
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >ICT Unit</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Membangun sistem internal yang andal & efisien</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1" >ICT Unit</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Membangun sistem internal yang andal &amp; efisien</text>
       </svg>
-    
